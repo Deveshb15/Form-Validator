@@ -1,0 +1,11 @@
+body{
+    position: relative;
+}
+
+img{
+    width: 550px;
+    height: 300px;
+    position: absolute;
+    right: 494px;
+    display: none;
+}
